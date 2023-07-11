@@ -1,0 +1,10 @@
+﻿body {
+	background-color: #000000;
+}
+h1,h2,h3,h4,p {
+	color: #FFFFFF;
+}
+table.center {
+	margin-left:auto;
+	margin-right:auto
+}
